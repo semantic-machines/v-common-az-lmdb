@@ -1,8 +1,10 @@
 [package]
 name = "v_az_lmdb"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["itiu <ValeriyBushenev@gmail.com>"]
 edition = "2018"
+escription = "common part of the veda platform"
+license     = "MIT"
 
 [lib]
 path = "src/az-lmdb.rs"
