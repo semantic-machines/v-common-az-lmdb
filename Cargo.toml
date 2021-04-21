@@ -1,6 +1,6 @@
 [package]
 name = "v-common-az-lmdb"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["itiu <ValeriyBushenev@gmail.com>"]
 edition = "2018"
 description = "common part of the veda platform"
@@ -13,5 +13,5 @@ path = "src/az-lmdb.rs"
 lazy_static = "1.4"
 lmdb-rs-m = "0.7.7"
 
-v_authorization = "0.1.0"
+v_authorization = "0.1.1"
 
